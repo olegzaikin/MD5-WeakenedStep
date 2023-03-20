@@ -1,1 +1,1 @@
-# MD5-WeakenedStep
+Data for the paper 'Inverting Step-reduced MD5 via Parameterized SAT Solver'.
